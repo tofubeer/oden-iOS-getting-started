@@ -1,0 +1,128 @@
+[
+  {
+    "datasetName":"Public Art",
+    "country":"CA",
+    "province":"AB",
+    "region":"Edmonton Metropolitan Region",
+    "city":"Edmonton",
+    "provider":"City of Edmonton",
+    "schema":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-data/master/Dataset%20Schema/Public%20Art%20Schema.json",
+    "converter":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-converters/master/Converters/ca/ab/edmonton/edmonton/Public-Art/JSON.js",
+    "id":"873AC2495482A66035BE35FB2CC4750C5FCAEE2BE77B23B7521E5132EF0E64C2",
+    "downloads":[
+      {
+        "src":"https://data.edmonton.ca/resource/m895-mw74.geojson",
+        "encoding":"utf8"
+      }
+    ]
+  },
+  {
+    "datasetName":"Public Art",
+    "country":"US",
+    "province":"TX",
+    "region":"Travis County",
+    "city":"Austin",
+    "provider":"City of Austin",
+    "schema":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-data/master/Dataset%20Schema/Public%20Art%20Schema.json",
+    "converter":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-converters/master/Converters/us/tx/travis-county/austin/Public-Art/JSON.js",
+    "id":"FD78EE7F7092BF73761DCE8FB1800EAAF0088446F375F7628794A959EC05D8B4",
+    "downloads":[
+      {
+        "src":"https://data.austintexas.gov/resource/y4i9-kewd.json",
+        "encoding":"utf8"
+      }
+    ]
+  },
+  {
+    "datasetName":"Public Art",
+    "country":"US",
+    "province":"HI",
+    "region":"Honolulu County",
+    "city":"Honolulu",
+    "provider":"City of Honolulu",
+    "schema":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-data/master/Dataset%20Schema/Public%20Art%20Schema.json",
+    "converter":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-converters/master/Converters/us/hi/honolulu-county/honolulu/Public-Art/JSON.js",
+    "id":"951B0F35CA74AFDB32BCAF209C7E01FFCBE5C19E2465629EF11FC9FD1AD51AB0",
+    "downloads":[
+      {
+        "src":"https://data.honolulu.gov/resource/ki6v-9ufn.json",
+        "encoding":"utf8"
+      }
+    ]
+  },
+  {
+    "datasetName":"Public Art",
+    "country":"CA",
+    "province":"BC",
+    "region":"Metro Vancouver",
+    "city":"New Westminster",
+    "provider":"City of New Westminster",
+    "schema":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-data/master/Dataset%20Schema/Public%20Art%20Schema.json",
+    "converter":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-converters/master/Converters/ca/bc/metro-vancouver/new-westminster/Public-Art/JSON2.js",
+    "id":"02B658A34E64F92F39934B31D5D32EEAC29512C6CB184D21C09F5A04A5A05F7A",
+    "downloads":[
+      {
+        "src":"http://opendata.newwestcity.ca/downloads/public-art/PUBLIC_ART.json",
+        "encoding":"utf8"
+      }
+    ]
+  },
+  {
+    "datasetName":"Public Art",
+    "country":"US",
+    "province":"WA",
+    "region":"King County",
+    "city":"Seattle",
+    "provider":"City of Seattle",
+    "schema":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-data/master/Dataset%20Schema/Public%20Art%20Schema.json",
+    "converter":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-converters/master/Converters/us/wa/king-county/seattle/Public-Art/JSON.js",
+    "id":"341579B403441869950C9A9DBDA128EB0526C47B37F78B2E6D52539131FCC670",
+    "downloads":[
+      {
+        "src":"https://data.seattle.gov/resource/249z-59hj.json",
+        "encoding":"utf8"
+      }
+    ]
+  },
+  {
+    "datasetName":"Public Art",
+    "country":"CA",
+    "province":"BC",
+    "region":"Metro Vancouver",
+    "city":"Surrey",
+    "provider":"City of Surrey",
+    "schema":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-data/master/Dataset%20Schema/Public%20Art%20Schema.json",
+    "converter":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-converters/master/Converters/ca/bc/metro-vancouver/surrey/Public-Art/JSON2.js",
+    "id":"2404D523ABBE00A472E392AB4A2B75D45C4EAE34713CAD0292592E2C9C16F59E",
+    "downloads":[
+      {
+        "src":"http://cosmos.surrey.ca/geo_ref/Images/OpenDataArchives/JSON_Yearly/public_art_JSON.zip",
+        "encoding":"binary",
+        "extract":[
+          {
+            "src":"public_art_JSON/public_art.json",
+            "dst":"public_art.json",
+            "encoding":"utf8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "datasetName":"Public Art",
+    "country":"CA",
+    "province":"BC",
+    "region":"Metro Vancouver",
+    "city":"Vancouver",
+    "provider":"City of Vancouver",
+    "schema":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-data/master/Dataset%20Schema/Public%20Art%20Schema.json",
+    "converter":"https://raw.githubusercontent.com/Terratap-Technologies-Inc/oden-converters/master/Converters/ca/bc/metro-vancouver/vancouver/Public-Art/JSON.js",
+    "id":"F81ADE10CC1463E2DF889670D9BFB64CF41BBF68537B7A19BCDCB25380AEB43A",
+    "downloads":[
+      {
+        "src":"ftp://webftp.vancouver.ca/OpenData/json/public_art.json",
+        "encoding":"utf8"
+      }
+    ]
+  }
+]
